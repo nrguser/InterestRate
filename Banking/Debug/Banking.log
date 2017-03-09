@@ -1,8 +1,2 @@
-﻿  main.cpp
-c:\users\matthew\onedrive\programming\banking\banking\main.cpp(13): warning C4101: 'timeperoid': unreferenced local variable
-c:\users\matthew\onedrive\programming\banking\banking\main.cpp(13): warning C4101: 'rateperyear': unreferenced local variable
-c:\users\matthew\onedrive\programming\banking\banking\main.cpp(13): warning C4101: 'principal': unreferenced local variable
-c:\users\matthew\onedrive\programming\banking\banking\main.cpp(13): warning C4101: 'interestamount': unreferenced local variable
-c:\users\matthew\onedrive\programming\banking\banking\main.cpp(13): warning C4101: 'rateofinterest': unreferenced local variable
-  Banking.vcxproj -> C:\Users\Matthew\OneDrive\Programming\Banking\Debug\Banking.exe
+﻿  Banking.vcxproj -> C:\Users\Matthew\OneDrive\Programming\Banking\Debug\Banking.exe
   Banking.vcxproj -> C:\Users\Matthew\OneDrive\Programming\Banking\Debug\Banking.pdb (Full PDB)
